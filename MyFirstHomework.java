@@ -20,7 +20,7 @@ public class MyFirstHomework {
         System.out.println(" #Black Box Testing #White Box Testing ");
         System.out.print(" Testing Levels ");
         System.out.println(" HELLO WORL");
-        
+
 
 
 
